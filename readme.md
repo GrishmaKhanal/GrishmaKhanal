@@ -19,6 +19,8 @@
 
 <img align="left" alt="GrishmaKhanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GrishmaKhanal&show_icons=true&hide_border=true&count_private=true&theme=dark#gh-dark-mode-only" /> 
 
+---
+
 <img align="left" alt="GrishmaKhanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GrishmaKhanal&show_icons=true&hide_border=true&count_private=true&theme=dark#gh-light-mode-only" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaKhanal&layout=compact)](https://github.com/GrishmaKhanal/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaKhanal&layout=compact&theme=transparent)](https://github.com/GrishmaKhanal/github-readme-stats)
