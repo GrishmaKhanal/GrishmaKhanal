@@ -18,6 +18,6 @@
 ---
 
 <img align="left" alt="GrishmaKhanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GrishmaKhanal&show_icons=true&count_private=true&theme=transparent" /> 
-
-<img align="top-right" alt="GrishmaKhanal's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaKhanal&layout=compact&theme=transparent" />
+<br>
+<img align="left" alt="GrishmaKhanal's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaKhanal&layout=compact&theme=transparent" />
 
