@@ -16,8 +16,9 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/grishmarajkhanal#gh-dark-mode-only)
 
 ---
-
-<img align="left" alt="GrishmaKhanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GrishmaKhanal&show_icons=true&count_private=true&theme=transparent" /> 
-<br>
-<img align="left" alt="GrishmaKhanal's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaKhanal&layout=compact&theme=transparent" />
-
+<p>
+<img align="right" alt="GrishmaKhanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GrishmaKhanal&locale=en&theme=transparent&layout=compact" alt="GrishmaKhanal's GitHub Stats" /> 
+</p>
+<p>&nbsp;
+<img align="left" alt="GrishmaKhanal's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaKhanal&locale=en&show_icons=false&layout=compact&theme=transparent"  alt="GrishmaKhanal's Top Languages"/>
+</p>
