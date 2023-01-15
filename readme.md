@@ -17,7 +17,7 @@
 
 ---
 <p>
-<img align="right" alt="GrishmaKhanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GrishmaKhanal&locale=en&theme=transparent&layout=compact" alt="GrishmaKhanal's GitHub Stats" /> 
+<img align="left" alt="GrishmaKhanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GrishmaKhanal&locale=en&theme=transparent&layout=compact" alt="GrishmaKhanal's GitHub Stats" /> 
 </p>
 <p>&nbsp;
 <img align="left" alt="GrishmaKhanal's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaKhanal&locale=en&show_icons=false&layout=compact&theme=transparent"  alt="GrishmaKhanal's Top Languages"/>
