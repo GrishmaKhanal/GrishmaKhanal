@@ -16,12 +16,14 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/grishmarajkhanal#gh-dark-mode-only)
 
 ---
-<p>
-<img align="left" alt="GrishmaKhanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GrishmaKhanal&locale=en&theme=transparent&layout=compact" alt="GrishmaKhanal's GitHub Stats" /> 
-</p>
-<p>&nbsp;
-<img align="left" alt="GrishmaKhanal's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaKhanal&locale=en&show_icons=false&theme=transparent"  alt="GrishmaKhanal's Top Languages"/>
-</p>
-<p>
-<img align="left" alt="GrishmaKhanal's Github streaks" src="https://streak-stats.demolab.com?user=GrishmaKhanal&theme=transparent"  alt="GrishmaKhanal's GitHub Streaks"/>
- </p>
+
+
+<img align="centre" alt="GrishmaKhanal's Github streaks" src="https://streak-stats.demolab.com?user=GrishmaKhanal&theme=great-gatsby&locale=en"  alt="GrishmaKhanal's GitHub Streaks"/>
+<br>
+
+<img align="centre" alt="GrishmaKhanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GrishmaKhanal&locale=en&theme=great-gatsby&layout=compact&show_icons=true" alt="GrishmaKhanal's GitHub Stats" /> 
+<br>
+
+<img align="centre" alt="GrishmaKhanal's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaKhanal&locale=en&show_icons=false&theme=great-gatsby&layout=compact"  alt="GrishmaKhanal's Top Languages"/>
+
+ 
