@@ -22,3 +22,6 @@
 <p>&nbsp;
 <img align="left" alt="GrishmaKhanal's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaKhanal&locale=en&show_icons=false&theme=transparent"  alt="GrishmaKhanal's Top Languages"/>
 </p>
+<p>
+<img align="left" alt="GrishmaKhanal's Github streaks" src="https://streak-stats.demolab.com?user=GrishmaKhanal&theme=transparent"  alt="GrishmaKhanal's GitHub Streaks"/>
+ </p>
