@@ -27,3 +27,6 @@
 <img align="centre" alt="GrishmaKhanal's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaKhanal&locale=en&show_icons=false&theme=great-gatsby&layout=compact"  alt="GrishmaKhanal's Top Languages"/>
 
  
+<p alight="right">
+  <img align="right" src="https://komarev.com/ghpvc/?username=GrishmaKhanal&style=plastic&color=blue" />
+</p>
