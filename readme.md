@@ -1,9 +1,5 @@
 # Hi there, I'm Grishma Raj Khanal👋 
 
-- 🌱 I’m currently learning webdevelopment
-- ⚽ I love anime, football and games
-- 🙏 I'd like to contribute to open source
-
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/GrishmaKhanal#gh-light-mode-only)
