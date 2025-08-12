@@ -13,7 +13,10 @@
 
 ---
 
+Languages & Scripts: Python, Javscript, SQL
+Likes: Football
 
+<!--
 <img align="centre" alt="GrishmaKhanal's Github streaks" src="https://streak-stats.demolab.com?user=GrishmaKhanal&theme=great-gatsby&locale=en"  alt="GrishmaKhanal's GitHub Streaks"/>
 <br>
 
@@ -26,3 +29,4 @@
 <p alight="right">
   <img align="right" src="https://komarev.com/ghpvc/?username=GrishmaKhanal&style=plastic&color=blue" />
 </p>
+-->
