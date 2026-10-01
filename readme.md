@@ -1,5 +1,15 @@
 # Hi there, I'm Grishma Raj Khanal👋 
 
+Working as a Software Enginner since Feb, 2024.
+
+
+---
+
+Languages & Scripts: Python, Javscript, SQL(MySQL / Postgresql)
+
+---
+### View my portfolio at: [![website](./img/globe-light.svg)](https://www.grishmakhanal.com.np#gh-light-mode-only)[![website](./img/globe-dark.svg)](https://www.grishmakhanal.com.np#gh-dark-mode-only) [grishmakhanal.com.np](https://grishmakhanal.com.np)
+
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/GrishmaKhanal#gh-light-mode-only)
@@ -10,12 +20,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/grishmarajkhanal#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/grishmarajkhanal#gh-dark-mode-only)
-
----
-
-Languages & Scripts: Python, Javscript, SQL
-
----
 
 <!--
 <img align="centre" alt="GrishmaKhanal's Github streaks" src="https://streak-stats.demolab.com?user=GrishmaKhanal&theme=great-gatsby&locale=en"  alt="GrishmaKhanal's GitHub Streaks"/>
