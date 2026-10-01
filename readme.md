@@ -1,11 +1,14 @@
 # Hi there, I'm Grishma Raj Khanal👋 
 
-Working as a Software Enginner since Feb, 2024.
+Software Engineer building software, automating workflows, and improving systems with AI.
 
+I work primarily with Python, JavaScript/TypeScript, and SQL, with a focus on secure systems, document processing, automation, and API integrations.
 
 ---
 
-Languages & Scripts: Python, Javscript, SQL(MySQL / Postgresql)
+Languages: Python · JavaScript · TypeScript · SQL
+Databases: MySQL · PostgreSQL
+Cloud & Tools: Azure · Docker · Git
 
 ---
 ### View my portfolio at: [![website](./img/globe-light.svg)](https://www.grishmakhanal.com.np#gh-light-mode-only)[![website](./img/globe-dark.svg)](https://www.grishmakhanal.com.np#gh-dark-mode-only) [grishmakhanal.com.np](https://grishmakhanal.com.np)
